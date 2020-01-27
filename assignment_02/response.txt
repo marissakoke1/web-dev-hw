@@ -1,0 +1,9 @@
+Marissa Koke
+
+1. One way data travels on the internet is through fiberoptic cables. This is how we connect with people across the ocean in other countries.
+2. The relationship between an IP address and DNS is an IP address is how the computer is able to send and receive information. While DNS looks up the domain names to find the IP address to connect your computer to the desired destination.
+3. A cookie is a websites text file that is stored to your computer and is used for future information to cater to what you commonly search.
+4. Three basic parts of a URL are:
+  - The protocol: shows how a web browser communicates with a web server.
+  - A domain: the main direction to your website.
+  - A path: this is how files are found through directions given.
