@@ -1,0 +1,3 @@
+1. The head can have 5 different elements. The meta, viewport, title, link, and style. The body has two. The structural markup and the semantic markup.
+2. Structural markup is what embeds information like the heading, paragraphs, breaks and lists. The semantic markup is meant to helo emphasize information in the document. Such as bold, quotes, or strike throughs.
+3. The work cycle for this assignent was enjoyable. I had fun making my own little website for my favorite pancake recipe. The thing that is going to be hard for me to remember is how to link websites but other than that the rest of what we did came fairly easy to me. 
