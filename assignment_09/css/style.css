@@ -1,0 +1,32 @@
+h1 {color: #0000a0;}
+.square {
+  width: 50%;
+  height: 45px;
+  opacity: .7;
+  font-size: 19px;
+  font-family: cursive; verdana;
+}
+
+/* break */
+
+#red {
+  background-color: #d63606
+}
+
+/* break */
+
+#brown{
+  background-color: #6d8206
+}
+
+/* break */
+
+#yellow{
+  background-color: #f3e51f
+}
+
+/* break */
+
+#orange{
+  background-color: #f39f1f
+}
