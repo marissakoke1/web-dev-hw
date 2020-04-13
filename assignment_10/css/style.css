@@ -1,0 +1,40 @@
+/* Page Style */
+body{
+  background-color: rgb(230,230,250);
+  color: black;
+  padding: 5px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/*Paragraph Style */
+.text{
+  background-color: black;
+  color: rgb(230,230,250);
+  padding: 5px;
+  line-height: 2em
+  text-align:left;
+}
+p:first-of-type:first-letter {
+  font-family: 'Arapey', serif;
+  font-size: 3em;
+  font-weight: 300;
+  color: white
+
+}
+
+/* Link */
+a{
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+a:hover {
+  font-style: italic;
+}
+a:visited{
+  color: #77c3ec;
+}
+a:active{
+background-color: black;
+color: rgb(230,230,250);
+}
