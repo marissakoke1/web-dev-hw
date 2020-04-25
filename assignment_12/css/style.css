@@ -1,0 +1,132 @@
+body{
+  background-color: #E6E6Fa;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+
+h1, span{
+  margin: 0;
+  font-family: 'Righteous', cursive, Georgia, serif;
+  color: darkred;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Righteous', cursive, Georgia, serif;
+  font-size: 1em;
+}
+
+a{
+  text-decoration: none;
+  }
+
+h2{
+  font-family: 'Acme', sans-serif, Georgia, serif;
+  font-size: 1em;
+  text-align: center;
+  color: darkred;
+}
+
+.main-container{
+  width: 60%;
+  max-width: 700px;
+  margin: 3em auto;
+  padding: 1em;
+  background-color: lightblue;
+}
+
+.site-heading{
+  width: 50%;
+  margin: 4em auto;
+  padding: 30px;
+  position: relative;
+  z-index: 1;
+
+  border: 6px double lightpink;
+  text-align: center;
+}
+#site-title{
+  margin: .5em;
+  line-height: 1em;
+  font-size: 3em;
+}
+
+#site-slogan{
+  font-size: 1em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.site-logo{
+margin: auto;
+display: block;
+}
+
+.over-img{
+width: 200px;
+height: 150px;
+}
+.post-content p:first-letter{
+  line-height: 1.45em;
+  margin-right: 1px;
+  font-size: 2em;
+  color:lightblue;
+  font-weight:600;
+}
+
+.archives-link{
+  min-height: 5em;
+  width: 12em;
+  margin:auto;
+}
+.button{
+  margin: auto;
+  position: relative;
+  background-color: lightblue;
+  border-width: 15px 10px 10px 15px;
+  border-style:solid;
+  border-color:lightpink grey grey lightpink;
+
+text-align: center;
+}
+.button:active{
+background-color: darkred;
+border-width: 10px 15px 15px 10px;
+border-style:solid;
+border-color:grey lightpink lightpink grey;
+}
+
+.button h3{
+color: white;
+letter-spacing: 1px;
+text-transform:uppercase;
+}
+
+.button h3:hover{
+text-decoration: underline overline;
+text-decoration-color: white;
+text-decoration-style: dotted;
+
+
+}
+
+.button h3:active{
+  color: lavender
+  text-decoration: underline overline;
+  text-decoration-color: lavender;
+  text-decoration-style: dotted;
+}
+
+.line{
+  border-top: 5px double lightblue;
+}
+
+
+
+main{
+  font-family: 'Acme', sans-serif, Georgia, serif;
+  color: black;
+  text-align: justify;
+  margin: 3em 0;
+}
