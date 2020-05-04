@@ -1,0 +1,113 @@
+body{
+  background-color: lightpink;
+  color: #2E9AFE;
+  padding: 1em;
+font-family: 'Anton', sans-serif, Georgia, serif;
+}
+
+.heading{
+height: 100;
+margin: 2em;
+padding: .5em;
+text-align: center;
+letter-spacing: 1px;
+
+}
+
+.paragraph{
+  text-align: left;
+  color: #2E9AFE;
+  font-family: 'Staatliches', cursive, Georgia, serif;
+  margin: 1em;
+  font-size: 1.3em;
+}
+
+.logo{
+  background-color: lightpink;
+  width: 100px;
+  height: 100px;
+  padding-left: 10px;
+}
+
+.main-container{
+  font-family: 'Permanent Marker', cursive, Georgia, serif;
+  font-size: 1.2em;
+  width: 100%;
+  height: 50px;
+  margin: .5em;
+  padding: .5em;
+  background-color: lightpink;
+}
+
+/* LINKS */
+
+ul{
+  background-color: brown;
+  text-align: center;
+  padding: 5px;
+}
+
+li{
+  display: inline;
+  padding 5px;
+}
+
+
+}
+.booksuggestion{
+  margin: 2em;
+  padding: .5em;
+  background-color: #2E9AFE;
+text-align: left;
+}
+.booksuggestion:active{
+background-color: white;
+}
+
+.booksuggestion h3{
+color: brown;
+letter-spacing: 1.2px;
+text-transform:uppercase;
+}
+
+.booksuggestion h3:hover{
+text-decoration: underline overline;
+text-decoration-color: #2E9AFE;
+text-decoration-style: double;
+
+
+}
+
+.booksuggestion h3:active{
+  color: #2E9AFE
+  text-decoration: underline overline;
+  text-decoration-color: #2E9AFE;
+  text-decoration-style: dotted;
+}
+
+/* tab info */
+
+.aboutinfo{
+  margin:2em;
+  padding:1em;
+  font-family: 'Staatliches', cursive, Georgia, serif;
+  font-size: 2em;
+}
+
+.contactinfo{
+  margin:2em;
+  padding:1em;
+  font-family: 'Staatliches', cursive, Georgia, serif;
+  font-size: 1.5em;
+}
+
+.genreinfo{
+  margin:2em;
+  padding:1em;
+  font-family: 'Staatliches', cursive, Georgia, serif;
+  font-size: 1.2em;
+}
+
+.genrelinks{
+  font-family: 'Permanent Marker', cursive, Georgia, serif;
+}
